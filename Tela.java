@@ -276,10 +276,9 @@ public class Tela extends JFrame
 		JOptionPane.showMessageDialog(null, 				
  		"Trabalho de Estrutura de Dados\n" +
 		"Nomes\n" +
-		"Jos� Maria de C. Gomes-41.696-7\n" +
-		"Rafael V. da Silva-47.528-9\n" +
-		"Elton dos Santos Araujo-47.693-5\n" +
-		"Almir R. da Silva-48.159-9");
+		/*Jose Maria Gomes	        41.000-7          */
+		
+		"Jos� Maria de C. Gomes-41.000-7\n");
 		Tela application = new Tela();
 		application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}	
